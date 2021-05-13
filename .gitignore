@@ -1,0 +1,8 @@
+#NPM Module  
+node_modules
+
+#Distribution Folders
+/dist/
+/public/
+
+package-lock.json
